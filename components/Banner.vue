@@ -13,20 +13,20 @@
                         <span>
                             <img src="/public/img/i1.svg" alt="Icon">
                         </span>
-                        <span class="text-xl">Pure water</span>
+                        <span class="max-lg:text-lg text-xl">Pure water</span>
                     </div>
                     <div class="flex gap-2 items-center">
                         <span>
                             <img src="/public/img/i2.svg" alt="Icon">
 
                         </span>
-                        <span class="text-xl">Zero plastic</span>
+                        <span class="max-lg:text-lg text-xl">Zero plastic</span>
                     </div>
                     <div class="flex gap-2 items-center">
                         <span>
                             <img src="/public/img/i3.svg" alt="Icon">
                         </span>
-                        <span class="text-xl">100% sustainable</span>
+                        <span class="max-lg:text-lg text-xl">100% sustainable</span>
                     </div>
                 </div>
             </div>
