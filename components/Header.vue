@@ -1,5 +1,5 @@
 <template>
-    <header class="transition-all fixed top-0 w-full z-50"
+    <header class="transition-all fixed -top-[1px] w-full z-50"
         :class="scrolled ? 'h-[70px] bg-white shadow-custom' : 'bg-transparent h-[90px]'">
         <div class="container flex items-center justify-between h-full">
             <div class="z-10">

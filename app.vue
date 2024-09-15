@@ -10,8 +10,8 @@
 
 <script setup>
 useSeoMeta({
-  title: 'Eaula',
-  ogTitle: 'Eaula',
+  title: 'eaula',
+  ogTitle: 'eaula',
   description: 'Every sip helps build a healthier planet.',
   ogDescription: 'Every sip helps build a healthier planet.',
   //   ogImage: 'https://montyholding.com/ogimage.webp',
