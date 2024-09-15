@@ -9,7 +9,7 @@
                         <div class="cursor-pointer flex items-center gap-4 justify-between" @click="toggle(item.id)">
                             <div class="flex w-full">
                                 <div class="lg:w-4/5">
-                                    <h5 class="max-lg:text-[18px] text-[24px] font-bold mb-1">{{ item.question }}</h5>
+                                    <h5 class="max-lg:text-[18px] text-[24px] font-semibold mb-1">{{ item.question }}</h5>
                                 </div>
                                 <div>
 
@@ -100,7 +100,7 @@ const items = [
     }
 ];
 
-const activeItemId = ref(1);
+const activeItemId = ref(0);
 
 function toggle(itemId) {
     // If the clicked item is already active, close it, otherwise open the clicked one.
