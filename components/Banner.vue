@@ -30,8 +30,12 @@
                     </div>
                 </div>
             </div>
-            <h2 data-aos="zoom-in" class="max-lg:mt-10 mt-36 text-2xl italic">
+            <h2 data-aos="zoom-in" class="max-lg:mt-10 mt-36 max-lg:hidden text-2xl italic">
                 “Every sip helps build a healthier planet.”
+            </h2>
+
+            <h2 data-aos="zoom-in" class="max-lg:mt-10 mt-36 max-lg:block hidden text-lg italic">
+                “Every sip helps build <br /> a healthier planet.”
             </h2>
         </div>
 
