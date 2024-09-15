@@ -1,7 +1,7 @@
 <template>
     <section id="faq" class="py-10 lg:py-20 bg-[#EFEFEF] relative">
         <img class="absolute z-0 top-0 object-cover w-full h-full" src="/public/img/gray-dot.webp" alt="Gray">
-        <div class="container relative z-10">
+        <div data-aos="fade-up" class="container relative z-10">
             <h2 class="text-3xl font-semibold max-lg:text-center">FAQ</h2>
             <div>
                 <div class="bg-[#f7f7f7] shadow-custom mt-4 rounded-xl p-3" v-for="(item, i) in items" :key="item.id">

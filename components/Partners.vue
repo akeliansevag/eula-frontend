@@ -1,6 +1,6 @@
 <template>
     <section class="bg-white py-10 lg:py-20">
-        <div class="container">
+        <div data-aos="fade-down" class="container">
             <h2 class="text-3xl font-semibold max-lg:text-center">Partners</h2>
             <div class="flex max-md:justify-center max-md:flex-wrap gap-4 justify-between items-center mt-4">
                 <div class="max-lg:max-w-[100px]">

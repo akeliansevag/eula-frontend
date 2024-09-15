@@ -3,7 +3,7 @@
         <img class="absolute top-0 object-cover w-full h-full z-10" src="/public/img/ourdnabg.webp" alt="Background">
         <div class="container relative z-20">
             <div class="flex max-lg:flex-col max-lg:gap-10 gap-20">
-                <div class="max-lg:w-full w-1/3 max-lg:text-center">
+                <div data-aos="fade-up" class="max-lg:w-full w-1/3 max-lg:text-center">
                     <h2 class="text-3xl font-semibold">Our DNA</h2>
                     <p>
                         Eaula water is crafted with the finest Italian technology and tech-powered precision,
@@ -13,12 +13,12 @@
                         and sustainability.
                     </p>
                 </div>
-                <div class="max-lg:w-full w-2/3">
+                <div data-aos="zoom-in" class="max-lg:w-full w-2/3">
                     <img class="w-full" src="/public/img/ourdna1.webp" alt="Our DNA">
                 </div>
             </div>
             <h2 class="text-3xl font-semibold mt-10 max-lg:text-center">Behind the Purity</h2>
-            <div class="flex mt-10 max-lg:flex-col max-lg:items-center gap-10 relative">
+            <div data-aos="zoom-out" class="flex mt-10 max-lg:flex-col max-lg:items-center gap-10 relative">
                 <div
                     class="absolute w-[70%] h-[2px] border-dotted border-[1px] border-[#0078F4] top-[25%] z-0 left-1/2 -translate-x-1/2 max-lg:hidden">
                 </div>

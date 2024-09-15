@@ -1,7 +1,7 @@
 <template>
     <footer id="contact-us"
         class="overflow-hidden py-10 lg:py-20 bg-gradient-to-b from-[#0078f4] to-[#013577] relative text-white max-md:text-center">
-        <div class="container">
+        <div data-aos="fade-up" class="container">
             <div>
                 <h2 class="text-3xl font-semibold">Contact Us</h2>
                 <div class="flex flex-col gap-4 mt-10">
