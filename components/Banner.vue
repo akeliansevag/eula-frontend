@@ -26,7 +26,7 @@
                     </div>
                 </div>
             </div>
-            <h2 data-aos="fade-zoom-in" class="max-lg:mt-10 mt-36 text-2xl italic">
+            <h2 data-aos="zoom-in" class="max-lg:mt-10 mt-36 text-2xl italic">
                 “Every sip helps build a healthier planet.”
             </h2>
         </div>

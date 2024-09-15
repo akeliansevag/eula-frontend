@@ -86,17 +86,17 @@ const items = [
     {
         id: 2,
         question: 'How do I know the water is safe?',
-        answer: 'EAULA’s model eliminates single-use plastics by using reusable glass bottles. We focus on creating a zero-waste, eco-friendly solution that is scalable, efficient, and tailored for businesses in the hospitality industry. Our commitment to sustainability sets us apart as we redefine how water is consumed.'
+        answer: 'At EAULA, we prioritize safety and quality. All our water undergoes advanced filtration and mineralization processes, ensuring it meets stringent safety and hygiene standards. Our filters remove impurities while retaining essential minerals for optimal taste and hydration. Regular testing is conducted to ensure that every drop is pure, mineral-rich, and safe for consumption.'
     },
     {
         id: 3,
         question: 'How does EAULA help the planet?',
-        answer: 'EAULA’s model eliminates single-use plastics by using reusable glass bottles. We focus on creating a zero-waste, eco-friendly solution that is scalable, efficient, and tailored for businesses in the hospitality industry. Our commitment to sustainability sets us apart as we redefine how water is consumed.'
+        answer: 'EAULA helps the planet by significantly reducing single-use plastic bottles in the hospitality industry. By offering reusable glass bottles and an efficient water filtration system, we minimize plastic waste and lower carbon emissions. Our water service is designed to promote sustainability, reduce environmental impact, and contribute to the global effort to eliminate plastic waste.'
     },
     {
         id: 4,
         question: 'Can I find EAULA water outside restaurants?',
-        answer: 'EAULA’s model eliminates single-use plastics by using reusable glass bottles. We focus on creating a zero-waste, eco-friendly solution that is scalable, efficient, and tailored for businesses in the hospitality industry. Our commitment to sustainability sets us apart as we redefine how water is consumed.'
+        answer: 'Currently, EAULA\'s primary focus is on serving restaurants, hotels, cafes, and other businesses. However, we are actively expanding and exploring options for broader consumer access, including corporate settings and possibly residential options in the future. Keep an eye on our website for updates and expansion news.'
     }
 ];
 
