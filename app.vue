@@ -12,9 +12,9 @@
 useSeoMeta({
   title: 'eaula',
   ogTitle: 'eaula',
-  description: 'Every sip helps build a healthier planet.',
-  ogDescription: 'Every sip helps build a healthier planet.',
-  //   ogImage: 'https://montyholding.com/ogimage.webp',
-  //   twitterCard: 'summary_large_image',
+  description: 'NOTHING TASTES BETTER',
+  ogDescription: 'NOTHING TASTES BETTER',
+    ogImage: 'https://www.eaulawater.com/img/eaula-banner.webp',
+    twitterCard: 'summary_large_image',
 })
 </script>
