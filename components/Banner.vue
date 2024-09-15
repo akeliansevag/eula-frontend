@@ -2,7 +2,7 @@
     <section class="relative min-h-screen flex items-center">
         <img class="absolute -z-10 top-0 w-full max-lg:hidden left-0 object-cover h-full" src="/public/img/eaula-banner.webp" alt="Banner">
 
-        <img class="absolute -z-10 top-0 w-full max-lg:block object-right hidden left-0 object-cover h-full" src="/public/img/phone-cover.webp" alt="Banner">
+        <img class="absolute -z-10 top-0 w-full max-lg:block object-right hidden left-0 object-cover h-full" src="/public/img/phone-cover2.webp" alt="Banner">
 
         <div class="hidden max-lg:block absolute top-0 left-0 bg-[#ffffff] bg-opacity-50 w-full h-full z-10"></div>
         <div class="container relative z-20">
