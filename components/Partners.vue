@@ -10,11 +10,9 @@
                     <img src="/public/img/catch.webp" alt="Catch">
                 </div>
                 <div class="max-lg:max-w-[100px]">
-                    <img src="/public/img/operation.webp" alt="operation">
+                    <img src="/public/img/cq.webp" alt="cq">
                 </div>
-                <div class="max-lg:max-w-[100px]">
-                    <img src="/public/img/kitopi.webp" alt="Kitopi">
-                </div>
+               
 
             </div>
         </div>
