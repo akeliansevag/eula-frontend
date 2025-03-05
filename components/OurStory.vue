@@ -4,7 +4,7 @@
             <div class="bg-[#88C64C] max-lg:h-[13vh] h-[25vh] w-full absolute z-0 -bottom-[1px]"></div>
             <div class="container text-center z-10 relative">
                 <h2 data-aos="fade-up" class="text-3xl font-semibold mb-2">Our Story</h2>
-                <p data-aos="fade-up">It’s 2024, and bottled water is still predominantly packaged in plastic.<br />
+                <p data-aos="fade-up">It’s 2025, and bottled water is still predominantly packaged in plastic.<br />
                     Microplastics are infiltrating our water and our bodies, while plastic bottles
                     devastate ecosystems and scar our planet. <br />
                     <strong>The way we drink water is broken.</strong>

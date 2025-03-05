@@ -2,23 +2,27 @@
     <section class="bg-white py-10 lg:py-20">
         <div data-aos="fade-down" class="container">
             <h2 class="text-3xl font-semibold max-lg:text-center">Partners</h2>
-            <div class="flex max-md:justify-center max-md:flex-wrap gap-4 justify-between items-center mt-4">
-                <div class="max-lg:max-w-[100px]">
-                    <img src="/public/img/awani.webp" alt="Awani">
+            <div class="flex flex-wrap max-lg:justify-center items-center gap-12 mt-4">
+                <div class="max-w-[140px]" v-for="(logo,index) in logos" :key="index">
+                    <img :src="`/img/${logo}`" alt="">
                 </div>
-                <div class="max-lg:max-w-[100px]">
-                    <img src="/public/img/catch.webp" alt="Catch">
-                </div>
-                <div class="max-lg:max-w-[100px]">
-                    <img src="/public/img/cq.webp" alt="cq">
-                </div>
-               
-
-            </div>
+           </div>
         </div>
     </section>
 </template>
 
 <script setup>
-
+    const logos = [
+        'awani.webp',
+        'catch.webp',
+        '1.webp',
+        '2.webp',
+        '3.webp',
+        '4.webp',
+        '5.webp',
+        '6.webp',
+        '7.webp',
+        '8.webp',
+        '9.webp'
+    ]
 </script>
