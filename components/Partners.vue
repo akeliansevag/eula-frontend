@@ -23,6 +23,12 @@
         '6.webp',
         '7.webp',
         '8.webp',
-        '9.webp'
+        '9.webp',
+        '10.webp',
+        '11.webp',
+        '12.webp',
+        '13.webp',
+        '14.webp',
+        '15.webp',
     ]
 </script>

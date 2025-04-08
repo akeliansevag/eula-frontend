@@ -9,7 +9,7 @@
                     <img class="mb-3 w-full" src="/public/img/nick-habr.webp" alt="Nick Habr">
                     <p>
                         <strong>Nick Habr</strong> <br />
-                        CEO and Co-founder
+                        Co-founder
 
                     </p>
                 </div>
