@@ -6,7 +6,7 @@
             </div>
             <div class="max-md:text-center w-2/3 max-md:w-full max-md:flex-col flex gap-10 justify-between">
                 <div data-aos="zoom-out">
-                    <img class="mb-3 w-full" src="/public/img/nick-habr2.webp" alt="Nick Habr">
+                    <img class="mb-3 w-full rounded-3xl" src="/public/img/nick-habr2.webp" alt="Nick Habr">
                     <p>
                         <strong>Nick Habr</strong> <br />
                         Co-founder
@@ -14,7 +14,7 @@
                     </p>
                 </div>
                 <div data-aos="zoom-out">
-                    <img class="mb-3 w-full" src="/public/img/bilal-ballout2.webp" alt="Bilal Ballout">
+                    <img class="mb-3 w-full rounded-3xl" src="/public/img/bilal-ballout2.webp" alt="Bilal Ballout">
                     <p>
                         <strong>Bilal Ballout</strong> <br />
                         Co-founder
