@@ -30,5 +30,7 @@
         '13.webp',
         '14.webp',
         '15.webp',
+        '16.webp',
+        '17.webp'
     ]
 </script>
