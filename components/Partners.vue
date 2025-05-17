@@ -13,24 +13,28 @@
 
 <script setup>
     const logos = [
+        '100.webp',
+        '5.webp',
+        '17.webp',
+        '16.webp',
+        '2222.webp',
         'awani.webp',
         'catch.webp',
+        'safadi.webp',
+        'thea.webp',
+        'smoky.webp',
         '1.webp',
-        '2222.webp',
         '3.webp',
         '4.webp',
-        '5.webp',
         '6.webp',
         '7.webp',
         '8.webp',
         '9.webp',
-        '100.webp',
         '11.webp',
         '12.webp',
         '13.webp',
         '14.webp',
         '15.webp',
-        '16.webp',
-        '17.webp'
+        
     ]
 </script>

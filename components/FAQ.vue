@@ -93,11 +93,11 @@ const items = [
         question: 'How does EAULA help the planet?',
         answer: 'EAULA helps the planet by significantly reducing single-use plastic bottles in the hospitality industry. By offering reusable glass bottles and an efficient water filtration system, we minimize plastic waste and lower carbon emissions. Our water service is designed to promote sustainability, reduce environmental impact, and contribute to the global effort to eliminate plastic waste.'
     },
-    {
-        id: 4,
-        question: 'Can I find EAULA water outside restaurants?',
-        answer: 'Currently, EAULA\'s primary focus is on serving restaurants, hotels, cafes, and other businesses. However, we are actively expanding and exploring options for broader consumer access, including corporate settings and possibly residential options in the future. Keep an eye on our website for updates and expansion news.'
-    }
+    // {
+    //     id: 4,
+    //     question: 'Can I find EAULA water outside restaurants?',
+    //     answer: 'Currently, EAULA\'s primary focus is on serving restaurants, hotels, cafes, and other businesses. However, we are actively expanding and exploring options for broader consumer access, including corporate settings and possibly residential options in the future. Keep an eye on our website for updates and expansion news.'
+    // }
 ];
 
 const activeItemId = ref(0);
