@@ -1,7 +1,7 @@
 <template>
-    <section id="our-story" class="bg-white pt-10 lg:pt-20">
+    <section id="our-story" class="bg-white max-lg:py-10 lg:py-20">
         <div class="relative">
-            <div class="bg-[#88C64C] max-lg:h-[13vh] h-[25vh] w-full absolute z-0 -bottom-[1px]"></div>
+            <!-- <div class="bg-[#88C64C]  w-full absolute z-0 "></div> -->
             <div class="container text-center z-10 relative">
                 <h2 data-aos="fade-up" class="text-3xl font-semibold mb-2">Our Story</h2>
                 <p data-aos="fade-up">It’s 2025, and bottled water is still predominantly packaged in plastic.<br />
@@ -10,7 +10,7 @@
                     <strong>The way we drink water is broken.</strong>
                 </p>
 
-                <div class="mt-12 flex gap-3">
+                <!-- <div class="mt-12 flex gap-3">
                     <div>
                         <img data-aos="flip-right" class="w-full" src="/public/img/our-story-1.webp" alt="Our Story">
                     </div>
@@ -18,11 +18,12 @@
                         <img data-aos="flip-left" class="w-full" src="/public/img/our-story-2.webp" alt="Our Story">
                     </div>
 
-                </div>
+                </div> -->
 
             </div>
         </div>
-
+    </section>
+    <section>
         <div class="bg-[#88C64C] py-10 lg:py-20">
             <div class="container max-w-[1250px] text-center text-white">
                 <h2 data-aos="fade-down" class="text-3xl font-semibold">eaula’s Commitment</h2>

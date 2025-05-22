@@ -13,14 +13,17 @@
 
 <script setup>
     const logos = [
+        'paul.webp',
+        'soul-kitchen.webp',
         '100.webp',
         '5.webp',
         '17.webp',
         '16.webp',
         '2222.webp',
+        'safadi.webp',
         'awani.webp',
         'catch.webp',
-        'safadi.webp',
+        
         'thea.webp',
         'smoky.webp',
         '1.webp',
