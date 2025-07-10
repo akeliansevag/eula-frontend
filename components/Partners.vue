@@ -2,9 +2,9 @@
     <section class="bg-white py-10 lg:py-20">
         <div data-aos="fade-down" class="container">
             <h2 class="text-3xl font-semibold max-lg:text-center">Partners</h2>
-            <div class="flex flex-wrap max-lg:justify-center items-center gap-12 mt-4">
-                <div class="max-w-[150px]" v-for="(logo,index) in logos" :key="index">
-                    <img :src="`/img/${logo}`" alt="">
+            <div class="flex flex-wrap max-lg:justify-center items-center lg:gap-12 max-lg:gap-6 mt-4">
+                <div class="w-[150px] h-[150px] relative flex items-center justify-center" v-for="(logo,index) in logos" :key="index">
+                    <img class="w-full h-full object-contain absolute " :src="`/img/${logo}`" alt="">
                 </div>
            </div>
         </div>
@@ -15,7 +15,7 @@
     const logos = [
         'home-bakery.webp',
         'parkers.webp',
-        'bageri-form.webp',
+        
         'paul.webp',
         'soul-kitchen.webp',
         '100.webp',
@@ -26,7 +26,7 @@
         'safadi.webp',
         'awani.webp',
         'catch.webp',
-        
+        'bageri-form.webp',
         'thea.webp',
         'smoky.webp',
         '1.webp',
