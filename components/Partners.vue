@@ -3,7 +3,7 @@
         <div data-aos="fade-down" class="container">
             <h2 class="text-3xl font-semibold max-lg:text-center">Partners</h2>
             <div class="flex flex-wrap max-lg:justify-center items-center gap-12 mt-4">
-                <div class="max-w-[140px]" v-for="(logo,index) in logos" :key="index">
+                <div class="max-w-[150px]" v-for="(logo,index) in logos" :key="index">
                     <img :src="`/img/${logo}`" alt="">
                 </div>
            </div>
@@ -13,6 +13,9 @@
 
 <script setup>
     const logos = [
+        'home-bakery.webp',
+        'parkers.webp',
+        'bageri-form.webp',
         'paul.webp',
         'soul-kitchen.webp',
         '100.webp',
